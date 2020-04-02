@@ -1,5 +1,5 @@
 /eng_word/
 
 /.ipynb_checkpoints/
-
+*/.ipynb_checkpoints/
 /coursera/final data/
